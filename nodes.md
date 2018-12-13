@@ -26,6 +26,7 @@ If you are concerned about revealing this information to any of these 3rd party 
 - [https://api.telosvenezuela.com](https://api.telosvenezuela.com/v1/chain/get_info) - operated by [Telos Venezuela](https://telosvenezuela.com)
 - [https://telos.eos.barcelona](https://telos.eos.barcelona/v1/chain/get_info) - operated by [EOS Barcelona](https://eos.barcelona)
 - [https://telos.eosdetroit.io](https://telos.eosdetroit.io/v1/chain/get_info) - operated by [EOS Detroit](https://eosdetroit.io)
+- [https://api.telosunlimited.io](https://api.telosunlimited.io/v1/chain/get_info) - operated by [Telos Unlimited](https://telosunlimited.io)
 
 ## Verified TestNet Nodes
 - [http://testnet.telosfoundation.io:8888](http://testnet.telosfoundation.io:8888/v1/chain/get_info) - operated by [Telos Foundation](https://telosfoundation.io)
